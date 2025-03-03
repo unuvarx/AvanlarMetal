@@ -6,4 +6,78 @@
         <ImplicitUsings>enable</ImplicitUsings>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="..\..\..\..\..\Desktop\avanlarmetal\assets\css\">
+        <Link>wwwroot\css</Link>
+      </Folder>
+      <Folder Include="wwwroot\uploads\template\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\about-bg.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\about-portrait.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\apple-touch-icon.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\blog\blog-1.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\blog\blog-2.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\blog\blog-3.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\blog\blog-4.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\blog\blog-inside-post.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\blog\blog-recent-1.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\blog\blog-recent-2.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\blog\blog-recent-3.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\blog\blog-recent-4.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\blog\blog-recent-5.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\blog\comments-1.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\blog\comments-2.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\blog\comments-3.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\blog\comments-4.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\blog\comments-5.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\blog\comments-6.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\clients\client-1.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\clients\client-2.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\clients\client-3.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\clients\client-4.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\clients\client-5.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\clients\client-6.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\favicon.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\hero-carousel\hero-carousel-1.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\hero-carousel\hero-carousel-2.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\hero-carousel\hero-carousel-3.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\logo.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\masonry-portfolio\masonry-portfolio-1.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\masonry-portfolio\masonry-portfolio-2.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\masonry-portfolio\masonry-portfolio-3.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\masonry-portfolio\masonry-portfolio-4.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\masonry-portfolio\masonry-portfolio-5.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\masonry-portfolio\masonry-portfolio-6.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\masonry-portfolio\masonry-portfolio-7.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\masonry-portfolio\masonry-portfolio-8.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\masonry-portfolio\masonry-portfolio-9.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\portfolio\app-1.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\portfolio\books-1.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\portfolio\branding-1.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\portfolio\product-1.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\services.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\tabs\tab-1.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\tabs\tab-2.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\tabs\tab-3.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\tabs\tab-4.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\tabs\tab-5.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\team\team-1.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\team\team-2.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\team\team-3.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\team\team-4.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\testimonials\testimonials-1.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\testimonials\testimonials-2.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\testimonials\testimonials-3.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\testimonials\testimonials-4.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\testimonials\testimonials-5.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\img\testimonials\testimonials-6.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\scss\Readme.txt" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Swashbuckle.AspNetCore" Version="7.3.1" />
+    </ItemGroup>
+
 </Project>

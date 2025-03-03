@@ -19,6 +19,14 @@ html {
 
 body {
   margin-bottom: 60px;
+  
+}
+#preloader {
+  display: none;
+}
+
+a {
+  text-decoration: none!important;
 }
 
 .form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {

@@ -1,8 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "p63aqHXqWRM=",
+  "dgSpecHash": "7rkvDIybXlM=",
   "success": true,
   "projectFilePath": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/AvanlarMetal.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "/Users/developer/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/developer/.nuget/packages/microsoft.openapi/1.6.22/microsoft.openapi.1.6.22.nupkg.sha512",
+    "/Users/developer/.nuget/packages/swashbuckle.aspnetcore/7.3.1/swashbuckle.aspnetcore.7.3.1.nupkg.sha512",
+    "/Users/developer/.nuget/packages/swashbuckle.aspnetcore.swagger/7.3.1/swashbuckle.aspnetcore.swagger.7.3.1.nupkg.sha512",
+    "/Users/developer/.nuget/packages/swashbuckle.aspnetcore.swaggergen/7.3.1/swashbuckle.aspnetcore.swaggergen.7.3.1.nupkg.sha512",
+    "/Users/developer/.nuget/packages/swashbuckle.aspnetcore.swaggerui/7.3.1/swashbuckle.aspnetcore.swaggerui.7.3.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Access to the path '/Users/developer/.local/share' is denied."
+    }
+  ]
 }
