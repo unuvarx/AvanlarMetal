@@ -1,8 +1,90 @@
-@model TModel
-
 @{
-    ViewBag.Title = "title";
+    ViewBag.Title = "Proje Detayı";
     Layout = "_Layout";
 }
 
-<h2>title</h2>
+<!-- Page Title -->
+<div class="page-title light-background">
+    <div class="container d-lg-flex justify-content-between align-items-center">
+        <h1 class="mb-2 mb-lg-0">Proje Detayı</h1>
+        <nav class="breadcrumbs">
+            <ol>
+                <li><a href="/projelerimiz">Projelerimiz</a></li>
+                <li class="current">Proje Detayı</li>
+            </ol>
+        </nav>
+    </div>
+</div><!-- End Page Title -->
+
+<!-- Portfolio Details Section -->
+<section id="portfolio-details" class="portfolio-details section">
+
+    <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row gy-4">
+
+            <div class="col-lg-8">
+                <div class="portfolio-details-slider swiper init-swiper">
+
+                    <script type="application/json" class="swiper-config">
+                        {
+                            "loop": true,
+                            "speed": 600,
+                            "autoplay": {
+                                "delay": 5000
+                            },
+                            "slidesPerView": "auto",
+                            "pagination": {
+                                "el": ".swiper-pagination",
+                                "type": "bullets",
+                                "clickable": true
+                            }
+                        }
+                    </script>
+
+                    <div class="swiper-wrapper align-items-center">
+
+                        <div class="swiper-slide">
+                            <img src="~/uploads/template/img/portfolio/demir-kapi.jpg" alt="Demir Kapı">
+                        </div>
+
+                        <div class="swiper-slide">
+                            <img src="~/uploads/template/img/portfolio/korkuluk.jpg" alt="Demir Korkuluk">
+                        </div>
+
+                        <div class="swiper-slide">
+                            <img src="~/uploads/template/img/portfolio/celik-konstruksiyon.jpg" alt="Çelik Konstrüksiyon">
+                        </div>
+
+                        <div class="swiper-slide">
+                            <img src="~/uploads/template/img/portfolio/ferforje.jpg" alt="Ferforje İşleri">
+                        </div>
+
+                    </div>
+                    <div class="swiper-pagination"></div>
+                </div>
+            </div>
+
+            <div class="col-lg-4">
+                <div class="portfolio-info" data-aos="fade-up" data-aos-delay="200">
+                    <h3>Proje Bilgileri</h3>
+                    <ul>
+                        <li><strong>Kategori</strong>: Metal İşleri</li>
+                        <li><strong>Müşteri</strong>: Avanlar Metal</li>
+                        <li><strong>Proje Tarihi</strong>: 03 Mart, 2024</li>
+                        <li><strong>İletişim</strong>: <a href="#">www.avanlarmetal.com</a></li>
+                    </ul>
+                </div>
+                <div class="portfolio-description" data-aos="fade-up" data-aos-delay="300">
+                    <h2>Özel Üretim Metal Çözümleri</h2>
+                    <p>
+                        Avanlar Metal olarak, demir kapı, korkuluk, ferforje ve çelik konstrüksiyon alanlarında yüksek kaliteli üretim yapıyoruz. Müşterilerimizin ihtiyaçlarına özel tasarımlar sunarak dayanıklı ve estetik çözümler sağlıyoruz. Hassas kesim ve kaynak teknikleriyle uzun ömürlü ürünler üretiyoruz. Projelerimiz hakkında daha fazla bilgi almak için bizimle iletişime geçebilirsiniz.
+                    </p>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+</section><!-- /Portfolio Details Section -->

@@ -2,11 +2,12 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace AvanlarMetal.Controllers;
 
-public class HizmetlerimizController : Controller
+public class hizmetlerimizController : Controller
 {
     // GET
-    public IActionResult Index()
+    public IActionResult index()
     {
+        ViewBag.ActivePage = 2;
         return View();
     }
 }

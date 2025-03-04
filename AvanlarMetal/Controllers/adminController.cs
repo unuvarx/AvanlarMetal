@@ -2,12 +2,11 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace AvanlarMetal.Controllers;
 
-public class lazerkesimController : Controller
+public class adminController : Controller
 {
     // GET
-    public IActionResult index()
+    public IActionResult Index()
     {
-        ViewBag.ActivePage = 4;
         return View();
     }
 }

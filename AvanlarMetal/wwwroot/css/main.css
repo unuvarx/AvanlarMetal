@@ -176,6 +176,7 @@ h6 {
   margin: 0 0 0 30px;
   border-radius: 4px;
   transition: 0.3s;
+  border: none;
 }
 
 .header .btn-getstarted:hover,
@@ -2496,4 +2497,20 @@ section,
 
 .img-dark {
   filter: brightness(60%); /* Parlaklığı azaltarak karartma */
+}
+
+
+.laser {
+  transition: 0.3s;
+  animation: fadeIn 0.5s ease-out;
+  th {
+    color: var(--accent-color);
+  }
+  img {
+    
+  }
+}
+
+.mr-1 {
+  margin-right: 4px;
 }

@@ -2,11 +2,12 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace AvanlarMetal.Controllers;
 
-public class IletisimController : Controller
+public class iletisimController : Controller
 {
     // GET
-    public IActionResult Index()
+    public IActionResult index()
     {
+        ViewBag.ActivePage = 5;
         return View();
     }
 }

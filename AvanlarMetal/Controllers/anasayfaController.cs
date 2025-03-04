@@ -4,17 +4,18 @@ using AvanlarMetal.Models;
 
 namespace AvanlarMetal.Controllers;
 
-public class HomeController : Controller
+public class anasayfaController : Controller
 {
-    private readonly ILogger<HomeController> _logger;
+    private readonly ILogger<anasayfaController> _logger;
 
-    public HomeController(ILogger<HomeController> logger)
+    public anasayfaController(ILogger<anasayfaController> logger)
     {
         _logger = logger;
     }
 
-    public IActionResult Anasayfa()
+    public IActionResult index()
     {
+        ViewBag.ActivePage = 0;
         return View();
     }
     

@@ -162,8 +162,6 @@
 /Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/je9eyjeyxm-9wtfm7j0ok.gz
 /Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/otcpn4z33a-vjom3bl46k.gz
 /Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/u7abqksz1d-0qdbtt6r1b.gz
-/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/hzegegvlft-9520gb8gi8.gz
-/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/q1139qrh3p-c2u9wackwm.gz
 /Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/bin/Debug/net9.0/Microsoft.OpenApi.dll
 /Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
@@ -171,4 +169,6 @@
 /Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/AvanlarMetal.csproj.AssemblyReference.cache
 /Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/AvanlarMetal.MvcApplicationPartsAssemblyInfo.cs
 /Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/AvanlarM.79D76A06.Up2Date
-/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/94bqybol98-agtomt9kn7.gz
+/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/hzegegvlft-erfwtzcnm8.gz
+/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/94bqybol98-xz0be7c5lt.gz
+/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/q1139qrh3p-uh5zeowxf9.gz

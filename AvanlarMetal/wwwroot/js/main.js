@@ -191,4 +191,20 @@
 
   window.addEventListener("load", initSwiper);
 
+  $(document).ready(function () {
+    $('.mobile-nav-toggle').on('click', function () {
+      // Toggle the mobile nav visibility
+      $('#navmenu').toggleClass('d-xl-none');
+
+      // Toggle the body class
+      $('body').toggleClass('mobile-nav-active');
+
+      // Change the icon from 'bi-list' to 'bi-x' and vice versa
+      if ($('body').hasClass('mobile-nav-active')) {
+        $('.mobile-nav-toggle').removeClass('bi-list').addClass('bi-x');
+      } else {
+        $('.mobile-nav-toggle').removeClass('bi-x').addClass('bi-list');
+      }
+    });
+  });
 })();
