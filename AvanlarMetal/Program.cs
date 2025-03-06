@@ -1,11 +1,16 @@
+using AvanlarMetal.Models;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-// 🚀 Swagger Servisini Ekliyoruz
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+
+
+builder.Services.AddDbContext<Contexts>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("AvanlarMetalDB"))
+);
 
 var app = builder.Build();
 
@@ -20,16 +25,6 @@ app.UseHttpsRedirection();
 app.UseRouting();
 app.UseAuthorization();
 
-// 🚀 Swagger Middleware'ini Ekleyelim
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI(c =>
-    {
-        c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
-        c.RoutePrefix = "swagger"; // Tarayıcıdan erişim için: https://localhost:5058/swagger
-    });
-}
 
 app.MapStaticAssets();
 

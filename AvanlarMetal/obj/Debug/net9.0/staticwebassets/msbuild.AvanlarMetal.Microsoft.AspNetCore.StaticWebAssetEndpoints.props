@@ -4,13 +4,25 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AvanlarMetal.di14hw98q9.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-paHym9kAaBxygOOIAXAVWakiV/qIRS87hwN4GVN3kIc="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1081"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022paHym9kAaBxygOOIAXAVWakiV/qIRS87hwN4GVN3kIc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 28 Feb 2025 19:10:52 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1081"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022paHym9kAaBxygOOIAXAVWakiV/qIRS87hwN4GVN3kIc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Mar 2025 14:59:26 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/AvanlarMetal/AvanlarMetal.di14hw98q9.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AvanlarMetal.di14hw98q9.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"di14hw98q9"},{"Name":"integrity","Value":"sha256-paHym9kAaBxygOOIAXAVWakiV/qIRS87hwN4GVN3kIc="},{"Name":"label","Value":"_content/AvanlarMetal/AvanlarMetal.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1081"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022paHym9kAaBxygOOIAXAVWakiV/qIRS87hwN4GVN3kIc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 28 Feb 2025 19:10:52 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1081"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022paHym9kAaBxygOOIAXAVWakiV/qIRS87hwN4GVN3kIc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Mar 2025 14:59:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AvanlarMetal/css/login.49m7oq60sy.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\login.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"49m7oq60sy"},{"Name":"integrity","Value":"sha256-aIyfhckqObAhCDt2TgYC7lQfJXYTwgv2yPKDc/1QzuY="},{"Name":"label","Value":"_content/AvanlarMetal/css/login.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"972"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022aIyfhckqObAhCDt2TgYC7lQfJXYTwgv2yPKDc/1QzuY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Mar 2025 21:38:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AvanlarMetal/css/login.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\login.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-aIyfhckqObAhCDt2TgYC7lQfJXYTwgv2yPKDc/1QzuY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"972"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022aIyfhckqObAhCDt2TgYC7lQfJXYTwgv2yPKDc/1QzuY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Mar 2025 21:38:12 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/AvanlarMetal/css/main.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\main.css'))</AssetFile>

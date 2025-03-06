@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7SP0oAhYcP+l4V/K2WJKWtVxUR/wTtPT9AQ1oGHtJVM=",
+  "Hash": "OchpVcGHW8EBM7A3LoM6SBPDuCn6DUZtqPHt/CNoAjE=",
   "Source": "AvanlarMetal",
   "BasePath": "_content/AvanlarMetal",
   "Mode": "Default",
@@ -834,6 +834,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/vendor/glightbox/js/glightbox.js"
+    },
+    {
+      "Identity": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/ay2atqp1xs-49m7oq60sy.gz",
+      "SourceId": "AvanlarMetal",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/AvanlarMetal",
+      "RelativePath": "css/login#[.{fingerprint=49m7oq60sy}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/css/login.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "lyuzmcls4o",
+      "Integrity": "g6Kj+3lL2o+f/69cbxXxbF8YxhUy4435HsEIvvVUYWE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/css/login.css"
     },
     {
       "Identity": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/azxvpvtukq-c2jlpeoesf.gz",
@@ -2850,6 +2871,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/scopedcss/projectbundle/AvanlarMetal.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/css/login.css",
+      "SourceId": "AvanlarMetal",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/",
+      "BasePath": "_content/AvanlarMetal",
+      "RelativePath": "css/login#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "49m7oq60sy",
+      "Integrity": "aIyfhckqObAhCDt2TgYC7lQfJXYTwgv2yPKDc/1QzuY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/login.css"
     },
     {
       "Identity": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/css/main.css",
@@ -6973,7 +7015,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:10:52 GMT"
+          "Value": "Tue, 04 Mar 2025 14:59:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7026,7 +7068,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:10:52 GMT"
+          "Value": "Tue, 04 Mar 2025 14:59:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7063,7 +7105,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:10:52 GMT"
+          "Value": "Tue, 04 Mar 2025 14:59:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7110,7 +7152,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:10:52 GMT"
+          "Value": "Tue, 04 Mar 2025 14:59:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7171,7 +7213,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:10:52 GMT"
+          "Value": "Tue, 04 Mar 2025 14:59:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7216,7 +7258,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:10:52 GMT"
+          "Value": "Tue, 04 Mar 2025 14:59:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7271,7 +7313,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:10:52 GMT"
+          "Value": "Tue, 04 Mar 2025 14:59:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7332,7 +7374,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:10:52 GMT"
+          "Value": "Tue, 04 Mar 2025 14:59:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7377,7 +7419,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:10:52 GMT"
+          "Value": "Tue, 04 Mar 2025 14:59:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7432,7 +7474,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:10:52 GMT"
+          "Value": "Tue, 04 Mar 2025 14:59:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7485,7 +7527,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:10:52 GMT"
+          "Value": "Tue, 04 Mar 2025 14:59:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7522,7 +7564,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:10:52 GMT"
+          "Value": "Tue, 04 Mar 2025 14:59:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7541,6 +7583,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-0TEum751DgMS/JphK7FPrMuIu87bE9+evweOmX79TS0="
+        }
+      ]
+    },
+    {
+      "Route": "css/login.49m7oq60sy.css",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/ay2atqp1xs-49m7oq60sy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002890173410"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "345"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g6Kj+3lL2o+f/69cbxXxbF8YxhUy4435HsEIvvVUYWE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 21:38:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"aIyfhckqObAhCDt2TgYC7lQfJXYTwgv2yPKDc/1QzuY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "49m7oq60sy"
+        },
+        {
+          "Name": "label",
+          "Value": "css/login.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aIyfhckqObAhCDt2TgYC7lQfJXYTwgv2yPKDc/1QzuY="
+        }
+      ]
+    },
+    {
+      "Route": "css/login.49m7oq60sy.css",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/css/login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "972"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aIyfhckqObAhCDt2TgYC7lQfJXYTwgv2yPKDc/1QzuY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 21:38:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "49m7oq60sy"
+        },
+        {
+          "Name": "label",
+          "Value": "css/login.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aIyfhckqObAhCDt2TgYC7lQfJXYTwgv2yPKDc/1QzuY="
+        }
+      ]
+    },
+    {
+      "Route": "css/login.49m7oq60sy.css.gz",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/ay2atqp1xs-49m7oq60sy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "345"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g6Kj+3lL2o+f/69cbxXxbF8YxhUy4435HsEIvvVUYWE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 21:38:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "49m7oq60sy"
+        },
+        {
+          "Name": "label",
+          "Value": "css/login.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-g6Kj+3lL2o+f/69cbxXxbF8YxhUy4435HsEIvvVUYWE="
+        }
+      ]
+    },
+    {
+      "Route": "css/login.css",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/ay2atqp1xs-49m7oq60sy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002890173410"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "345"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g6Kj+3lL2o+f/69cbxXxbF8YxhUy4435HsEIvvVUYWE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 21:38:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"aIyfhckqObAhCDt2TgYC7lQfJXYTwgv2yPKDc/1QzuY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aIyfhckqObAhCDt2TgYC7lQfJXYTwgv2yPKDc/1QzuY="
+        }
+      ]
+    },
+    {
+      "Route": "css/login.css",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/css/login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "972"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aIyfhckqObAhCDt2TgYC7lQfJXYTwgv2yPKDc/1QzuY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 21:38:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aIyfhckqObAhCDt2TgYC7lQfJXYTwgv2yPKDc/1QzuY="
+        }
+      ]
+    },
+    {
+      "Route": "css/login.css.gz",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/ay2atqp1xs-49m7oq60sy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "345"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g6Kj+3lL2o+f/69cbxXxbF8YxhUy4435HsEIvvVUYWE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 21:38:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-g6Kj+3lL2o+f/69cbxXxbF8YxhUy4435HsEIvvVUYWE="
         }
       ]
     },
