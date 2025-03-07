@@ -5,7 +5,7 @@ namespace AvanlarMetal.Controllers;
 public class calculateController : Controller
 {
     // GET
-    public IActionResult Index()
+    public IActionResult index()
     {
         return View();
     }

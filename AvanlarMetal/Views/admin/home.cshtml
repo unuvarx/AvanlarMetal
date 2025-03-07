@@ -6,12 +6,60 @@
 <!DOCTYPE html>
 
 <html>
+
 <head>
-    <title>title</title>
+    <link href="~/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/main.css">
+    <title>Ürünler</title>
 </head>
 <body>
-<div>
-      
+<div class="admin">
+    <div class="buttons">
+        <a href="/admin/listofcategory" class="btn btn-warning">Kategori Listesi</a>
+        <a href="/admin/addcategory" class="btn btn-primary">Kategori Ekle</a>
+        <a href="/admin/addproduct" class="btn btn-secondary">Ürün Ekle</a>
+    </div>
+    
+    <table class="table table-bordered table-dark">
+        <thead>
+        <tr>
+            <th >Resim-1</th>
+            <th >Resim-2</th>
+            <th >Resim-3</th>
+            <th >Resim-4</th>
+            <th >Kategori</th>
+            <th >İletişim</th>
+            <th >Tarih</th>
+            <th >İşlemler</th>
+           
+        </tr>
+        </thead>
+        <tbody>
+        @{
+            if (ViewBag.Products != null)
+            {
+                foreach (var product in ViewBag.Products)
+                {
+                    <tr>
+                    <th ><img src="@product.img1" alt=""></th>
+                    <th ><img src="@product.img2" alt=""></th>
+                    <th ><img src="@product.img3" alt=""></th>
+                    <th ><img src="@product.img4" alt=""></th>
+                    <td>@product.Category</td>
+                    <td>@product.Contact</td>
+                    <td>@product.Date</td>
+                    <td>
+                        <form action="/admin/DeleteProductReq" method="post">
+                            <input type="hidden" value="@product.ProductId" name="productId">
+                            <button class="btn btn-danger">Sil</button>
+                        </form></td>
+                </tr>
+                }
+            }
+        }
+        </tbody>
+    </table>
 </div>
 </body>
+<script src="~/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 </html>

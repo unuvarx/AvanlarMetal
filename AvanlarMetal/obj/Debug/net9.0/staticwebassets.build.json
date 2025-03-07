@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OchpVcGHW8EBM7A3LoM6SBPDuCn6DUZtqPHt/CNoAjE=",
+  "Hash": "SsxsbDhShyQndOjRF2V7YgrgH9Sx0YnltjVDMT64zFU=",
   "Source": "AvanlarMetal",
   "BasePath": "_content/AvanlarMetal",
   "Mode": "Default",
@@ -458,6 +458,27 @@
       "OriginalItemSpec": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/vendor/bootstrap/css/bootstrap.rtl.css.map"
     },
     {
+      "Identity": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/6g4o8v5d0l-n28icwh8j8.gz",
+      "SourceId": "AvanlarMetal",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/AvanlarMetal",
+      "RelativePath": "js/calculate#[.{fingerprint=n28icwh8j8}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/js/calculate.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "vpcyxqe492",
+      "Integrity": "HUKYNJvYvAuy8MTl3REGKOhpyZ8zxO3UTq4JIOnIRis=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/js/calculate.js"
+    },
+    {
       "Identity": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/6v117xj0xp-ft3s53vfgj.gz",
       "SourceId": "AvanlarMetal",
       "SourceType": "Discovered",
@@ -689,12 +710,12 @@
       "OriginalItemSpec": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/vendor/glightbox/css/glightbox.min.css"
     },
     {
-      "Identity": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/94bqybol98-xz0be7c5lt.gz",
+      "Identity": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/94bqybol98-vjwpd0m93q.gz",
       "SourceId": "AvanlarMetal",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/AvanlarMetal",
-      "RelativePath": "css/main#[.{fingerprint=xz0be7c5lt}]?.css.gz",
+      "RelativePath": "css/main#[.{fingerprint=vjwpd0m93q}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -703,8 +724,8 @@
       "RelatedAsset": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/css/main.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "3o3b2f22d2",
-      "Integrity": "U2W69SFnf+B6AW7L9VGoMDqzAGoi45UXW3+tYR7S1LM=",
+      "Fingerprint": "qsaicx0ras",
+      "Integrity": "1oh1DnL9472RXqiI25CU0Bp3QC5XbY3Stq6+Qn/HwZM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/css/main.css"
@@ -2908,8 +2929,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xz0be7c5lt",
-      "Integrity": "M9wxHHjT4xjW0pr6vd87y69L8OedTlk8PJDROsyv024=",
+      "Fingerprint": "vjwpd0m93q",
+      "Integrity": "Cz4mRpq6bq90b0LswmfJoz7PoTcyU2YpOEylcV5w8bQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/main.css"
@@ -2955,6 +2976,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/js/calculate.js",
+      "SourceId": "AvanlarMetal",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/",
+      "BasePath": "_content/AvanlarMetal",
+      "RelativePath": "js/calculate#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n28icwh8j8",
+      "Integrity": "oeqlv3F7TPrMRDhWcDCJtQqU4zy8MdnfUuEQ+uKBjQs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/calculate.js"
     },
     {
       "Identity": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/js/main.js",
@@ -4259,6 +4301,258 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
     },
     {
+      "Identity": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/17690317.png",
+      "SourceId": "AvanlarMetal",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/",
+      "BasePath": "_content/AvanlarMetal",
+      "RelativePath": "uploads/products/17690317#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4r2602esmq",
+      "Integrity": "kIRm+YVOELyMOUQPy90jh968E0PwyMmfpU42KaiRS8Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/products/17690317.png"
+    },
+    {
+      "Identity": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/20639682.png",
+      "SourceId": "AvanlarMetal",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/",
+      "BasePath": "_content/AvanlarMetal",
+      "RelativePath": "uploads/products/20639682#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fuhdog52ja",
+      "Integrity": "l8PNNM7M8IYmh0YFNWIO64c2ET9YhXfUJvOJravDRys=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/products/20639682.png"
+    },
+    {
+      "Identity": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/30099546.jpeg",
+      "SourceId": "AvanlarMetal",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/",
+      "BasePath": "_content/AvanlarMetal",
+      "RelativePath": "uploads/products/30099546#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wgkq5lnaoy",
+      "Integrity": "IHPL8caiBoxvjEMTbKa3YlP2RQYL14y5Xb678jgjMZU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/products/30099546.jpeg"
+    },
+    {
+      "Identity": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/33562150.png",
+      "SourceId": "AvanlarMetal",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/",
+      "BasePath": "_content/AvanlarMetal",
+      "RelativePath": "uploads/products/33562150#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "opxlrz6j5e",
+      "Integrity": "FNtxC/GqcibU2YwqG+mlwpT+NW3oKt/Dj3gCE2lGJ8o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/products/33562150.png"
+    },
+    {
+      "Identity": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/47390835.png",
+      "SourceId": "AvanlarMetal",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/",
+      "BasePath": "_content/AvanlarMetal",
+      "RelativePath": "uploads/products/47390835#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xg1jii05bp",
+      "Integrity": "MajgB+aPwQY/rkfO9gO5C8/UAdj8XlgiTxQGOmAUEbc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/products/47390835.png"
+    },
+    {
+      "Identity": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/48194373.png",
+      "SourceId": "AvanlarMetal",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/",
+      "BasePath": "_content/AvanlarMetal",
+      "RelativePath": "uploads/products/48194373#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ikzg7gt91e",
+      "Integrity": "Es9X1PlCr/Z1sowmy3uXDb9hQP2CiOnuSaaO/rCxvJ4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/products/48194373.png"
+    },
+    {
+      "Identity": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/55526594.png",
+      "SourceId": "AvanlarMetal",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/",
+      "BasePath": "_content/AvanlarMetal",
+      "RelativePath": "uploads/products/55526594#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3rq8r6dczq",
+      "Integrity": "b9zj2oRcmFt6CQHNllhMZJA/vaWJ+sPm7J6YS6k9ri4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/products/55526594.png"
+    },
+    {
+      "Identity": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/71490551.png",
+      "SourceId": "AvanlarMetal",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/",
+      "BasePath": "_content/AvanlarMetal",
+      "RelativePath": "uploads/products/71490551#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2t9uzszyhb",
+      "Integrity": "JjAB0Jgsn504f+pTWrkGcKCOyN4cxR5Vsd0dD3qAv18=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/products/71490551.png"
+    },
+    {
+      "Identity": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/78949653.png",
+      "SourceId": "AvanlarMetal",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/",
+      "BasePath": "_content/AvanlarMetal",
+      "RelativePath": "uploads/products/78949653#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z3hr1c5yma",
+      "Integrity": "oU/1+pss63SLbQIzYznrifNHCgYR6Knd+GrnSn/Kw98=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/products/78949653.png"
+    },
+    {
+      "Identity": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/79596512.jpeg",
+      "SourceId": "AvanlarMetal",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/",
+      "BasePath": "_content/AvanlarMetal",
+      "RelativePath": "uploads/products/79596512#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kxns1zhbf3",
+      "Integrity": "KEWq+xUQiwM0vbWk6XQpkCUEzpy8E3VOerIyuXqa1KU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/products/79596512.jpeg"
+    },
+    {
+      "Identity": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/85945096.jpeg",
+      "SourceId": "AvanlarMetal",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/",
+      "BasePath": "_content/AvanlarMetal",
+      "RelativePath": "uploads/products/85945096#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x9j0qbogav",
+      "Integrity": "lUdDQORUZ+sTt7KJPyOQOcnwHrzd7kuDDciPzR5E4d8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/products/85945096.jpeg"
+    },
+    {
+      "Identity": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/93359496.png",
+      "SourceId": "AvanlarMetal",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/",
+      "BasePath": "_content/AvanlarMetal",
+      "RelativePath": "uploads/products/93359496#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7ls42l1r9j",
+      "Integrity": "RRDFeMkB4xG4wpRwoQxxyHYw8Ccnl3W0pTAxQRrKbXE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/products/93359496.png"
+    },
+    {
       "Identity": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/about-bg.png",
       "SourceId": "AvanlarMetal",
       "SourceType": "Discovered",
@@ -4294,8 +4588,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "l6i0pkb0ol",
-      "Integrity": "82qYVAe5g4/zPsY+9/5vQqoTcswQ02LnZ9sylJFcX/I=",
+      "Fingerprint": "fnyw7j27tl",
+      "Integrity": "lRVI+mMGThLW1XC86bIUjh2j85PZu+t+M0EXT22PwsE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/uploads/template/img/about-portrait.jpg"
@@ -4784,6 +5078,27 @@
       "OriginalItemSpec": "wwwroot/uploads/template/img/clients/client-6.png"
     },
     {
+      "Identity": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/clients/metaller.jpg",
+      "SourceId": "AvanlarMetal",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/",
+      "BasePath": "_content/AvanlarMetal",
+      "RelativePath": "uploads/template/img/clients/metaller#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2jpihtn65s",
+      "Integrity": "voYal8LleAJI1wwYuVrifSCqmGXujv4zl2Vlbf2Um74=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/template/img/clients/metaller.jpg"
+    },
+    {
       "Identity": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/favicon.png",
       "SourceId": "AvanlarMetal",
       "SourceType": "Discovered",
@@ -5204,12 +5519,12 @@
       "OriginalItemSpec": "wwwroot/uploads/template/img/services.jpg"
     },
     {
-      "Identity": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-1.png",
+      "Identity": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-1.jpg",
       "SourceId": "AvanlarMetal",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/",
       "BasePath": "_content/AvanlarMetal",
-      "RelativePath": "uploads/template/img/tabs/tab-1#[.{fingerprint}]?.png",
+      "RelativePath": "uploads/template/img/tabs/tab-1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5218,19 +5533,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "uu99bg8gpz",
-      "Integrity": "2rrDLxGcFtemyqXV9nQrsuUfA8aHdc/8TfkqGA7K8rI=",
+      "Fingerprint": "gkvnftgtpd",
+      "Integrity": "cL1uRakbmIKMknjtOiF9EI5Ueca2QDD2VhuG74NN0kg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/uploads/template/img/tabs/tab-1.png"
+      "OriginalItemSpec": "wwwroot/uploads/template/img/tabs/tab-1.jpg"
     },
     {
-      "Identity": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-2.png",
+      "Identity": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-2.jpg",
       "SourceId": "AvanlarMetal",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/",
       "BasePath": "_content/AvanlarMetal",
-      "RelativePath": "uploads/template/img/tabs/tab-2#[.{fingerprint}]?.png",
+      "RelativePath": "uploads/template/img/tabs/tab-2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5239,19 +5554,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "k41o8fco8c",
-      "Integrity": "tH9Ao8tOLXw7MekQOlsFdfYI4kWf74F0EboWCnUFdhI=",
+      "Fingerprint": "5dlxf508ki",
+      "Integrity": "l3KEZ7YVnVKDRMf6OgTG8rfqbeBZCePfrpSAi+HJCkQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/uploads/template/img/tabs/tab-2.png"
+      "OriginalItemSpec": "wwwroot/uploads/template/img/tabs/tab-2.jpg"
     },
     {
-      "Identity": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-3.png",
+      "Identity": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-3.jpg",
       "SourceId": "AvanlarMetal",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/",
       "BasePath": "_content/AvanlarMetal",
-      "RelativePath": "uploads/template/img/tabs/tab-3#[.{fingerprint}]?.png",
+      "RelativePath": "uploads/template/img/tabs/tab-3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5260,19 +5575,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "cx296rashw",
-      "Integrity": "ECn2rPB6Xh53p4onxStTL/pZGbWgv8D/czQr0wH/+EI=",
+      "Fingerprint": "ylnbk0pwqd",
+      "Integrity": "uo9IbSf5CwfMD4ei0ORW981SB1wkZbrQm3gZ/WJbnME=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/uploads/template/img/tabs/tab-3.png"
+      "OriginalItemSpec": "wwwroot/uploads/template/img/tabs/tab-3.jpg"
     },
     {
-      "Identity": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-4.png",
+      "Identity": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-4.jpg",
       "SourceId": "AvanlarMetal",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/",
       "BasePath": "_content/AvanlarMetal",
-      "RelativePath": "uploads/template/img/tabs/tab-4#[.{fingerprint}]?.png",
+      "RelativePath": "uploads/template/img/tabs/tab-4#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5281,19 +5596,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "vwq6ilnavl",
-      "Integrity": "QXzC3qg8XhXnzZwz+EJ/8WcRKfNiKLV02ln3ahI7Few=",
+      "Fingerprint": "35hkyqwfis",
+      "Integrity": "OaJLRwWxdSHwtVF17yVZUTyV2cN528eQtXEKVkjMlQQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/uploads/template/img/tabs/tab-4.png"
+      "OriginalItemSpec": "wwwroot/uploads/template/img/tabs/tab-4.jpg"
     },
     {
-      "Identity": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-5.png",
+      "Identity": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-5.jpg",
       "SourceId": "AvanlarMetal",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/",
       "BasePath": "_content/AvanlarMetal",
-      "RelativePath": "uploads/template/img/tabs/tab-5#[.{fingerprint}]?.png",
+      "RelativePath": "uploads/template/img/tabs/tab-5#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5302,11 +5617,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "1fe72a998y",
-      "Integrity": "Q0F1jzziaWPeqND82kA1VBtRxFdxK0Ng/OSRA/rvz7I=",
+      "Fingerprint": "lsgq0sjp3m",
+      "Integrity": "hTfKzNdz0AliH20hJ6G5yhxKdzHedIigzR5uQfxlU5w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/uploads/template/img/tabs/tab-5.png"
+      "OriginalItemSpec": "wwwroot/uploads/template/img/tabs/tab-5.jpg"
     },
     {
       "Identity": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/team/team-1.jpg",
@@ -7886,12 +8201,12 @@
     },
     {
       "Route": "css/main.css",
-      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/94bqybol98-xz0be7c5lt.gz",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/94bqybol98-vjwpd0m93q.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000121153380"
+          "Quality": "0.000114678899"
         }
       ],
       "ResponseHeaders": [
@@ -7901,15 +8216,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8253"
+          "Value": "8719"
         },
         {
           "Name": "ETag",
-          "Value": "\"U2W69SFnf+B6AW7L9VGoMDqzAGoi45UXW3+tYR7S1LM=\""
+          "Value": "\"1oh1DnL9472RXqiI25CU0Bp3QC5XbY3Stq6+Qn/HwZM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 03:21:55 GMT"
+          "Value": "Thu, 06 Mar 2025 20:48:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7929,13 +8244,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"M9wxHHjT4xjW0pr6vd87y69L8OedTlk8PJDROsyv024=\""
+          "Value": "W/\"Cz4mRpq6bq90b0LswmfJoz7PoTcyU2YpOEylcV5w8bQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-M9wxHHjT4xjW0pr6vd87y69L8OedTlk8PJDROsyv024="
+          "Value": "sha256-Cz4mRpq6bq90b0LswmfJoz7PoTcyU2YpOEylcV5w8bQ="
         }
       ]
     },
@@ -7950,7 +8265,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "52531"
+          "Value": "57097"
         },
         {
           "Name": "Content-Type",
@@ -7958,11 +8273,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"M9wxHHjT4xjW0pr6vd87y69L8OedTlk8PJDROsyv024=\""
+          "Value": "\"Cz4mRpq6bq90b0LswmfJoz7PoTcyU2YpOEylcV5w8bQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 03:21:55 GMT"
+          "Value": "Thu, 06 Mar 2025 20:48:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7972,13 +8287,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-M9wxHHjT4xjW0pr6vd87y69L8OedTlk8PJDROsyv024="
+          "Value": "sha256-Cz4mRpq6bq90b0LswmfJoz7PoTcyU2YpOEylcV5w8bQ="
         }
       ]
     },
     {
       "Route": "css/main.css.gz",
-      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/94bqybol98-xz0be7c5lt.gz",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/94bqybol98-vjwpd0m93q.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7987,7 +8302,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8253"
+          "Value": "8719"
         },
         {
           "Name": "Content-Type",
@@ -7995,11 +8310,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"U2W69SFnf+B6AW7L9VGoMDqzAGoi45UXW3+tYR7S1LM=\""
+          "Value": "\"1oh1DnL9472RXqiI25CU0Bp3QC5XbY3Stq6+Qn/HwZM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 03:21:55 GMT"
+          "Value": "Thu, 06 Mar 2025 20:48:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8017,18 +8332,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-U2W69SFnf+B6AW7L9VGoMDqzAGoi45UXW3+tYR7S1LM="
+          "Value": "sha256-1oh1DnL9472RXqiI25CU0Bp3QC5XbY3Stq6+Qn/HwZM="
         }
       ]
     },
     {
-      "Route": "css/main.xz0be7c5lt.css",
-      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/94bqybol98-xz0be7c5lt.gz",
+      "Route": "css/main.vjwpd0m93q.css",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/94bqybol98-vjwpd0m93q.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000121153380"
+          "Quality": "0.000114678899"
         }
       ],
       "ResponseHeaders": [
@@ -8038,15 +8353,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8253"
+          "Value": "8719"
         },
         {
           "Name": "ETag",
-          "Value": "\"U2W69SFnf+B6AW7L9VGoMDqzAGoi45UXW3+tYR7S1LM=\""
+          "Value": "\"1oh1DnL9472RXqiI25CU0Bp3QC5XbY3Stq6+Qn/HwZM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 03:21:55 GMT"
+          "Value": "Thu, 06 Mar 2025 20:48:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8066,13 +8381,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"M9wxHHjT4xjW0pr6vd87y69L8OedTlk8PJDROsyv024=\""
+          "Value": "W/\"Cz4mRpq6bq90b0LswmfJoz7PoTcyU2YpOEylcV5w8bQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xz0be7c5lt"
+          "Value": "vjwpd0m93q"
         },
         {
           "Name": "label",
@@ -8080,12 +8395,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-M9wxHHjT4xjW0pr6vd87y69L8OedTlk8PJDROsyv024="
+          "Value": "sha256-Cz4mRpq6bq90b0LswmfJoz7PoTcyU2YpOEylcV5w8bQ="
         }
       ]
     },
     {
-      "Route": "css/main.xz0be7c5lt.css",
+      "Route": "css/main.vjwpd0m93q.css",
       "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/css/main.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -8095,7 +8410,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "52531"
+          "Value": "57097"
         },
         {
           "Name": "Content-Type",
@@ -8103,11 +8418,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"M9wxHHjT4xjW0pr6vd87y69L8OedTlk8PJDROsyv024=\""
+          "Value": "\"Cz4mRpq6bq90b0LswmfJoz7PoTcyU2YpOEylcV5w8bQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 03:21:55 GMT"
+          "Value": "Thu, 06 Mar 2025 20:48:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8117,7 +8432,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xz0be7c5lt"
+          "Value": "vjwpd0m93q"
         },
         {
           "Name": "label",
@@ -8125,13 +8440,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-M9wxHHjT4xjW0pr6vd87y69L8OedTlk8PJDROsyv024="
+          "Value": "sha256-Cz4mRpq6bq90b0LswmfJoz7PoTcyU2YpOEylcV5w8bQ="
         }
       ]
     },
     {
-      "Route": "css/main.xz0be7c5lt.css.gz",
-      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/94bqybol98-xz0be7c5lt.gz",
+      "Route": "css/main.vjwpd0m93q.css.gz",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/94bqybol98-vjwpd0m93q.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8140,7 +8455,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8253"
+          "Value": "8719"
         },
         {
           "Name": "Content-Type",
@@ -8148,11 +8463,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"U2W69SFnf+B6AW7L9VGoMDqzAGoi45UXW3+tYR7S1LM=\""
+          "Value": "\"1oh1DnL9472RXqiI25CU0Bp3QC5XbY3Stq6+Qn/HwZM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 03:21:55 GMT"
+          "Value": "Thu, 06 Mar 2025 20:48:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8170,7 +8485,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xz0be7c5lt"
+          "Value": "vjwpd0m93q"
         },
         {
           "Name": "label",
@@ -8178,7 +8493,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-U2W69SFnf+B6AW7L9VGoMDqzAGoi45UXW3+tYR7S1LM="
+          "Value": "sha256-1oh1DnL9472RXqiI25CU0Bp3QC5XbY3Stq6+Qn/HwZM="
         }
       ]
     },
@@ -8775,6 +9090,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-+/824NtfTA0L7Mr42Fo+86YJP4R5cigdi9S7Fx5VVl4="
+        }
+      ]
+    },
+    {
+      "Route": "js/calculate.js",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/6g4o8v5d0l-n28icwh8j8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001033057851"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "967"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HUKYNJvYvAuy8MTl3REGKOhpyZ8zxO3UTq4JIOnIRis=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 16:57:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"oeqlv3F7TPrMRDhWcDCJtQqU4zy8MdnfUuEQ+uKBjQs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oeqlv3F7TPrMRDhWcDCJtQqU4zy8MdnfUuEQ+uKBjQs="
+        }
+      ]
+    },
+    {
+      "Route": "js/calculate.js",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/js/calculate.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3257"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oeqlv3F7TPrMRDhWcDCJtQqU4zy8MdnfUuEQ+uKBjQs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 16:57:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oeqlv3F7TPrMRDhWcDCJtQqU4zy8MdnfUuEQ+uKBjQs="
+        }
+      ]
+    },
+    {
+      "Route": "js/calculate.js.gz",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/6g4o8v5d0l-n28icwh8j8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "967"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HUKYNJvYvAuy8MTl3REGKOhpyZ8zxO3UTq4JIOnIRis=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 16:57:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HUKYNJvYvAuy8MTl3REGKOhpyZ8zxO3UTq4JIOnIRis="
+        }
+      ]
+    },
+    {
+      "Route": "js/calculate.n28icwh8j8.js",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/6g4o8v5d0l-n28icwh8j8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001033057851"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "967"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HUKYNJvYvAuy8MTl3REGKOhpyZ8zxO3UTq4JIOnIRis=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 16:57:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"oeqlv3F7TPrMRDhWcDCJtQqU4zy8MdnfUuEQ+uKBjQs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n28icwh8j8"
+        },
+        {
+          "Name": "label",
+          "Value": "js/calculate.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oeqlv3F7TPrMRDhWcDCJtQqU4zy8MdnfUuEQ+uKBjQs="
+        }
+      ]
+    },
+    {
+      "Route": "js/calculate.n28icwh8j8.js",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/js/calculate.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3257"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oeqlv3F7TPrMRDhWcDCJtQqU4zy8MdnfUuEQ+uKBjQs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 16:57:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n28icwh8j8"
+        },
+        {
+          "Name": "label",
+          "Value": "js/calculate.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oeqlv3F7TPrMRDhWcDCJtQqU4zy8MdnfUuEQ+uKBjQs="
+        }
+      ]
+    },
+    {
+      "Route": "js/calculate.n28icwh8j8.js.gz",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/6g4o8v5d0l-n28icwh8j8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "967"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HUKYNJvYvAuy8MTl3REGKOhpyZ8zxO3UTq4JIOnIRis=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 16:57:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n28icwh8j8"
+        },
+        {
+          "Name": "label",
+          "Value": "js/calculate.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HUKYNJvYvAuy8MTl3REGKOhpyZ8zxO3UTq4JIOnIRis="
         }
       ]
     },
@@ -27039,6 +27652,990 @@
       ]
     },
     {
+      "Route": "uploads/products/17690317.4r2602esmq.png",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/17690317.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "512601"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kIRm+YVOELyMOUQPy90jh968E0PwyMmfpU42KaiRS8Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:58:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4r2602esmq"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/17690317.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kIRm+YVOELyMOUQPy90jh968E0PwyMmfpU42KaiRS8Y="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/17690317.png",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/17690317.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "512601"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kIRm+YVOELyMOUQPy90jh968E0PwyMmfpU42KaiRS8Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:58:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kIRm+YVOELyMOUQPy90jh968E0PwyMmfpU42KaiRS8Y="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/20639682.fuhdog52ja.png",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/20639682.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "373928"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l8PNNM7M8IYmh0YFNWIO64c2ET9YhXfUJvOJravDRys=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:59:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fuhdog52ja"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/20639682.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-l8PNNM7M8IYmh0YFNWIO64c2ET9YhXfUJvOJravDRys="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/20639682.png",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/20639682.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "373928"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l8PNNM7M8IYmh0YFNWIO64c2ET9YhXfUJvOJravDRys=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:59:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-l8PNNM7M8IYmh0YFNWIO64c2ET9YhXfUJvOJravDRys="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/30099546.jpeg",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/30099546.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "395436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IHPL8caiBoxvjEMTbKa3YlP2RQYL14y5Xb678jgjMZU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:57:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IHPL8caiBoxvjEMTbKa3YlP2RQYL14y5Xb678jgjMZU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/30099546.wgkq5lnaoy.jpeg",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/30099546.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "395436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IHPL8caiBoxvjEMTbKa3YlP2RQYL14y5Xb678jgjMZU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:57:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wgkq5lnaoy"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/30099546.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IHPL8caiBoxvjEMTbKa3YlP2RQYL14y5Xb678jgjMZU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/33562150.opxlrz6j5e.png",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/33562150.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "589676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FNtxC/GqcibU2YwqG+mlwpT+NW3oKt/Dj3gCE2lGJ8o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:58:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "opxlrz6j5e"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/33562150.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FNtxC/GqcibU2YwqG+mlwpT+NW3oKt/Dj3gCE2lGJ8o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/33562150.png",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/33562150.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "589676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FNtxC/GqcibU2YwqG+mlwpT+NW3oKt/Dj3gCE2lGJ8o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:58:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FNtxC/GqcibU2YwqG+mlwpT+NW3oKt/Dj3gCE2lGJ8o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/47390835.png",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/47390835.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "378461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MajgB+aPwQY/rkfO9gO5C8/UAdj8XlgiTxQGOmAUEbc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:59:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MajgB+aPwQY/rkfO9gO5C8/UAdj8XlgiTxQGOmAUEbc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/47390835.xg1jii05bp.png",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/47390835.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "378461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MajgB+aPwQY/rkfO9gO5C8/UAdj8XlgiTxQGOmAUEbc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:59:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xg1jii05bp"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/47390835.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MajgB+aPwQY/rkfO9gO5C8/UAdj8XlgiTxQGOmAUEbc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/48194373.ikzg7gt91e.png",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/48194373.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "404503"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Es9X1PlCr/Z1sowmy3uXDb9hQP2CiOnuSaaO/rCxvJ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:59:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ikzg7gt91e"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/48194373.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Es9X1PlCr/Z1sowmy3uXDb9hQP2CiOnuSaaO/rCxvJ4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/48194373.png",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/48194373.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "404503"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Es9X1PlCr/Z1sowmy3uXDb9hQP2CiOnuSaaO/rCxvJ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:59:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Es9X1PlCr/Z1sowmy3uXDb9hQP2CiOnuSaaO/rCxvJ4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/55526594.3rq8r6dczq.png",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/55526594.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3659219"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b9zj2oRcmFt6CQHNllhMZJA/vaWJ+sPm7J6YS6k9ri4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:57:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3rq8r6dczq"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/55526594.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-b9zj2oRcmFt6CQHNllhMZJA/vaWJ+sPm7J6YS6k9ri4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/55526594.png",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/55526594.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3659219"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b9zj2oRcmFt6CQHNllhMZJA/vaWJ+sPm7J6YS6k9ri4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:57:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-b9zj2oRcmFt6CQHNllhMZJA/vaWJ+sPm7J6YS6k9ri4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/71490551.2t9uzszyhb.png",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/71490551.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "995354"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JjAB0Jgsn504f+pTWrkGcKCOyN4cxR5Vsd0dD3qAv18=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:59:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2t9uzszyhb"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/71490551.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JjAB0Jgsn504f+pTWrkGcKCOyN4cxR5Vsd0dD3qAv18="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/71490551.png",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/71490551.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "995354"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JjAB0Jgsn504f+pTWrkGcKCOyN4cxR5Vsd0dD3qAv18=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:59:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JjAB0Jgsn504f+pTWrkGcKCOyN4cxR5Vsd0dD3qAv18="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/78949653.png",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/78949653.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "223454"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oU/1+pss63SLbQIzYznrifNHCgYR6Knd+GrnSn/Kw98=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:58:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oU/1+pss63SLbQIzYznrifNHCgYR6Knd+GrnSn/Kw98="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/78949653.z3hr1c5yma.png",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/78949653.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "223454"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oU/1+pss63SLbQIzYznrifNHCgYR6Knd+GrnSn/Kw98=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:58:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z3hr1c5yma"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/78949653.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oU/1+pss63SLbQIzYznrifNHCgYR6Knd+GrnSn/Kw98="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/79596512.jpeg",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/79596512.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "487168"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KEWq+xUQiwM0vbWk6XQpkCUEzpy8E3VOerIyuXqa1KU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:57:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KEWq+xUQiwM0vbWk6XQpkCUEzpy8E3VOerIyuXqa1KU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/79596512.kxns1zhbf3.jpeg",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/79596512.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "487168"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KEWq+xUQiwM0vbWk6XQpkCUEzpy8E3VOerIyuXqa1KU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:57:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kxns1zhbf3"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/79596512.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KEWq+xUQiwM0vbWk6XQpkCUEzpy8E3VOerIyuXqa1KU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/85945096.jpeg",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/85945096.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "599186"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lUdDQORUZ+sTt7KJPyOQOcnwHrzd7kuDDciPzR5E4d8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:57:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lUdDQORUZ+sTt7KJPyOQOcnwHrzd7kuDDciPzR5E4d8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/85945096.x9j0qbogav.jpeg",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/85945096.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "599186"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lUdDQORUZ+sTt7KJPyOQOcnwHrzd7kuDDciPzR5E4d8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:57:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x9j0qbogav"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/85945096.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lUdDQORUZ+sTt7KJPyOQOcnwHrzd7kuDDciPzR5E4d8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/93359496.7ls42l1r9j.png",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/93359496.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "414648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RRDFeMkB4xG4wpRwoQxxyHYw8Ccnl3W0pTAxQRrKbXE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:58:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7ls42l1r9j"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/93359496.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RRDFeMkB4xG4wpRwoQxxyHYw8Ccnl3W0pTAxQRrKbXE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/93359496.png",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/93359496.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "414648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RRDFeMkB4xG4wpRwoQxxyHYw8Ccnl3W0pTAxQRrKbXE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:58:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RRDFeMkB4xG4wpRwoQxxyHYw8Ccnl3W0pTAxQRrKbXE="
+        }
+      ]
+    },
+    {
       "Route": "uploads/template/img/about-bg.bk72zf0ujn.png",
       "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/about-bg.png",
       "Selectors": [],
@@ -27121,6 +28718,51 @@
       ]
     },
     {
+      "Route": "uploads/template/img/about-portrait.fnyw7j27tl.jpg",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/about-portrait.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2481458"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lRVI+mMGThLW1XC86bIUjh2j85PZu+t+M0EXT22PwsE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 14:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fnyw7j27tl"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/template/img/about-portrait.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lRVI+mMGThLW1XC86bIUjh2j85PZu+t+M0EXT22PwsE="
+        }
+      ]
+    },
+    {
       "Route": "uploads/template/img/about-portrait.jpg",
       "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/about-portrait.jpg",
       "Selectors": [],
@@ -27131,7 +28773,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "71291"
+          "Value": "2481458"
         },
         {
           "Name": "Content-Type",
@@ -27139,11 +28781,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"82qYVAe5g4/zPsY+9/5vQqoTcswQ02LnZ9sylJFcX/I=\""
+          "Value": "\"lRVI+mMGThLW1XC86bIUjh2j85PZu+t+M0EXT22PwsE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:44:08 GMT"
+          "Value": "Thu, 06 Mar 2025 14:25:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27153,52 +28795,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-82qYVAe5g4/zPsY+9/5vQqoTcswQ02LnZ9sylJFcX/I="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/template/img/about-portrait.l6i0pkb0ol.jpg",
-      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/about-portrait.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "71291"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"82qYVAe5g4/zPsY+9/5vQqoTcswQ02LnZ9sylJFcX/I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:44:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "l6i0pkb0ol"
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/template/img/about-portrait.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-82qYVAe5g4/zPsY+9/5vQqoTcswQ02LnZ9sylJFcX/I="
+          "Value": "sha256-lRVI+mMGThLW1XC86bIUjh2j85PZu+t+M0EXT22PwsE="
         }
       ]
     },
@@ -29089,6 +30686,88 @@
       ]
     },
     {
+      "Route": "uploads/template/img/clients/metaller.2jpihtn65s.jpg",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/clients/metaller.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134375"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"voYal8LleAJI1wwYuVrifSCqmGXujv4zl2Vlbf2Um74=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 17:03:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2jpihtn65s"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/template/img/clients/metaller.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-voYal8LleAJI1wwYuVrifSCqmGXujv4zl2Vlbf2Um74="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/template/img/clients/metaller.jpg",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/clients/metaller.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134375"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"voYal8LleAJI1wwYuVrifSCqmGXujv4zl2Vlbf2Um74=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 17:03:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-voYal8LleAJI1wwYuVrifSCqmGXujv4zl2Vlbf2Um74="
+        }
+      ]
+    },
+    {
       "Route": "uploads/template/img/favicon.a6saogu6d9.png",
       "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/favicon.png",
       "Selectors": [],
@@ -30729,8 +32408,8 @@
       ]
     },
     {
-      "Route": "uploads/template/img/tabs/tab-1.png",
-      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-1.png",
+      "Route": "uploads/template/img/tabs/tab-1.gkvnftgtpd.jpg",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -30739,56 +32418,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "18390"
+          "Value": "785515"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"2rrDLxGcFtemyqXV9nQrsuUfA8aHdc/8TfkqGA7K8rI=\""
+          "Value": "\"cL1uRakbmIKMknjtOiF9EI5Ueca2QDD2VhuG74NN0kg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:44:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-2rrDLxGcFtemyqXV9nQrsuUfA8aHdc/8TfkqGA7K8rI="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/template/img/tabs/tab-1.uu99bg8gpz.png",
-      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-1.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "18390"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2rrDLxGcFtemyqXV9nQrsuUfA8aHdc/8TfkqGA7K8rI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:44:08 GMT"
+          "Value": "Thu, 06 Mar 2025 17:31:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30798,21 +32440,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "uu99bg8gpz"
+          "Value": "gkvnftgtpd"
         },
         {
           "Name": "label",
-          "Value": "uploads/template/img/tabs/tab-1.png"
+          "Value": "uploads/template/img/tabs/tab-1.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-2rrDLxGcFtemyqXV9nQrsuUfA8aHdc/8TfkqGA7K8rI="
+          "Value": "sha256-cL1uRakbmIKMknjtOiF9EI5Ueca2QDD2VhuG74NN0kg="
         }
       ]
     },
     {
-      "Route": "uploads/template/img/tabs/tab-2.k41o8fco8c.png",
-      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-2.png",
+      "Route": "uploads/template/img/tabs/tab-1.jpg",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -30821,64 +32463,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "18643"
+          "Value": "785515"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"tH9Ao8tOLXw7MekQOlsFdfYI4kWf74F0EboWCnUFdhI=\""
+          "Value": "\"cL1uRakbmIKMknjtOiF9EI5Ueca2QDD2VhuG74NN0kg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:44:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "k41o8fco8c"
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/template/img/tabs/tab-2.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-tH9Ao8tOLXw7MekQOlsFdfYI4kWf74F0EboWCnUFdhI="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/template/img/tabs/tab-2.png",
-      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-2.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "18643"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"tH9Ao8tOLXw7MekQOlsFdfYI4kWf74F0EboWCnUFdhI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:44:08 GMT"
+          "Value": "Thu, 06 Mar 2025 17:31:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30888,13 +32485,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-tH9Ao8tOLXw7MekQOlsFdfYI4kWf74F0EboWCnUFdhI="
+          "Value": "sha256-cL1uRakbmIKMknjtOiF9EI5Ueca2QDD2VhuG74NN0kg="
         }
       ]
     },
     {
-      "Route": "uploads/template/img/tabs/tab-3.cx296rashw.png",
-      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-3.png",
+      "Route": "uploads/template/img/tabs/tab-2.5dlxf508ki.jpg",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -30903,19 +32500,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14576"
+          "Value": "1033419"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"ECn2rPB6Xh53p4onxStTL/pZGbWgv8D/czQr0wH/+EI=\""
+          "Value": "\"l3KEZ7YVnVKDRMf6OgTG8rfqbeBZCePfrpSAi+HJCkQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:44:08 GMT"
+          "Value": "Thu, 06 Mar 2025 17:31:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30925,21 +32522,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "cx296rashw"
+          "Value": "5dlxf508ki"
         },
         {
           "Name": "label",
-          "Value": "uploads/template/img/tabs/tab-3.png"
+          "Value": "uploads/template/img/tabs/tab-2.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ECn2rPB6Xh53p4onxStTL/pZGbWgv8D/czQr0wH/+EI="
+          "Value": "sha256-l3KEZ7YVnVKDRMf6OgTG8rfqbeBZCePfrpSAi+HJCkQ="
         }
       ]
     },
     {
-      "Route": "uploads/template/img/tabs/tab-3.png",
-      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-3.png",
+      "Route": "uploads/template/img/tabs/tab-2.jpg",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -30948,19 +32545,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14576"
+          "Value": "1033419"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"ECn2rPB6Xh53p4onxStTL/pZGbWgv8D/czQr0wH/+EI=\""
+          "Value": "\"l3KEZ7YVnVKDRMf6OgTG8rfqbeBZCePfrpSAi+HJCkQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:44:08 GMT"
+          "Value": "Thu, 06 Mar 2025 17:31:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30970,13 +32567,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ECn2rPB6Xh53p4onxStTL/pZGbWgv8D/czQr0wH/+EI="
+          "Value": "sha256-l3KEZ7YVnVKDRMf6OgTG8rfqbeBZCePfrpSAi+HJCkQ="
         }
       ]
     },
     {
-      "Route": "uploads/template/img/tabs/tab-4.png",
-      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-4.png",
+      "Route": "uploads/template/img/tabs/tab-3.jpg",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -30985,19 +32582,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15853"
+          "Value": "753077"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"QXzC3qg8XhXnzZwz+EJ/8WcRKfNiKLV02ln3ahI7Few=\""
+          "Value": "\"uo9IbSf5CwfMD4ei0ORW981SB1wkZbrQm3gZ/WJbnME=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:44:08 GMT"
+          "Value": "Thu, 06 Mar 2025 17:25:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31007,13 +32604,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-QXzC3qg8XhXnzZwz+EJ/8WcRKfNiKLV02ln3ahI7Few="
+          "Value": "sha256-uo9IbSf5CwfMD4ei0ORW981SB1wkZbrQm3gZ/WJbnME="
         }
       ]
     },
     {
-      "Route": "uploads/template/img/tabs/tab-4.vwq6ilnavl.png",
-      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-4.png",
+      "Route": "uploads/template/img/tabs/tab-3.ylnbk0pwqd.jpg",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -31022,19 +32619,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15853"
+          "Value": "753077"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"QXzC3qg8XhXnzZwz+EJ/8WcRKfNiKLV02ln3ahI7Few=\""
+          "Value": "\"uo9IbSf5CwfMD4ei0ORW981SB1wkZbrQm3gZ/WJbnME=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:44:08 GMT"
+          "Value": "Thu, 06 Mar 2025 17:25:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31044,21 +32641,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vwq6ilnavl"
+          "Value": "ylnbk0pwqd"
         },
         {
           "Name": "label",
-          "Value": "uploads/template/img/tabs/tab-4.png"
+          "Value": "uploads/template/img/tabs/tab-3.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-QXzC3qg8XhXnzZwz+EJ/8WcRKfNiKLV02ln3ahI7Few="
+          "Value": "sha256-uo9IbSf5CwfMD4ei0ORW981SB1wkZbrQm3gZ/WJbnME="
         }
       ]
     },
     {
-      "Route": "uploads/template/img/tabs/tab-5.1fe72a998y.png",
-      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-5.png",
+      "Route": "uploads/template/img/tabs/tab-4.35hkyqwfis.jpg",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -31067,19 +32664,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11187"
+          "Value": "694392"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"Q0F1jzziaWPeqND82kA1VBtRxFdxK0Ng/OSRA/rvz7I=\""
+          "Value": "\"OaJLRwWxdSHwtVF17yVZUTyV2cN528eQtXEKVkjMlQQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:44:08 GMT"
+          "Value": "Thu, 06 Mar 2025 17:25:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31089,21 +32686,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1fe72a998y"
+          "Value": "35hkyqwfis"
         },
         {
           "Name": "label",
-          "Value": "uploads/template/img/tabs/tab-5.png"
+          "Value": "uploads/template/img/tabs/tab-4.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Q0F1jzziaWPeqND82kA1VBtRxFdxK0Ng/OSRA/rvz7I="
+          "Value": "sha256-OaJLRwWxdSHwtVF17yVZUTyV2cN528eQtXEKVkjMlQQ="
         }
       ]
     },
     {
-      "Route": "uploads/template/img/tabs/tab-5.png",
-      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-5.png",
+      "Route": "uploads/template/img/tabs/tab-4.jpg",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -31112,19 +32709,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11187"
+          "Value": "694392"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"Q0F1jzziaWPeqND82kA1VBtRxFdxK0Ng/OSRA/rvz7I=\""
+          "Value": "\"OaJLRwWxdSHwtVF17yVZUTyV2cN528eQtXEKVkjMlQQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:44:08 GMT"
+          "Value": "Thu, 06 Mar 2025 17:25:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31134,7 +32731,89 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Q0F1jzziaWPeqND82kA1VBtRxFdxK0Ng/OSRA/rvz7I="
+          "Value": "sha256-OaJLRwWxdSHwtVF17yVZUTyV2cN528eQtXEKVkjMlQQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/template/img/tabs/tab-5.jpg",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "594039"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hTfKzNdz0AliH20hJ6G5yhxKdzHedIigzR5uQfxlU5w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 17:25:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hTfKzNdz0AliH20hJ6G5yhxKdzHedIigzR5uQfxlU5w="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/template/img/tabs/tab-5.lsgq0sjp3m.jpg",
+      "AssetFile": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "594039"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hTfKzNdz0AliH20hJ6G5yhxKdzHedIigzR5uQfxlU5w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 17:25:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lsgq0sjp3m"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/template/img/tabs/tab-5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hTfKzNdz0AliH20hJ6G5yhxKdzHedIigzR5uQfxlU5w="
         }
       ]
     },

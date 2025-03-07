@@ -28,8 +28,24 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
+[/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/Views/admin/addcategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvYWRtaW4vYWRkY2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/Views/admin/addproduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvYWRtaW4vYWRkcHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/Views/admin/contacts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvYWRtaW4vY29udGFjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/Views/admin/home.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvYWRtaW4vaG9tZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/Views/admin/listofcategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvYWRtaW4vbGlzdG9mY2F0ZWdvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/Views/admin/login.cshtml]
@@ -38,6 +54,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/Views/anasayfa/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvYW5hc2F5ZmEvaW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/Views/calculate/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvY2FsY3VsYXRlL2luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/Views/hakkimizda/index.cshtml]

@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/js/calculate.js",
+      "PackagePath": "staticwebassets/js/calculate.js"
+    },
+    {
       "Id": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/js/main.js",
       "PackagePath": "staticwebassets/js/main.js"
     },
@@ -269,6 +273,54 @@
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.min.map"
     },
     {
+      "Id": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/17690317.png",
+      "PackagePath": "staticwebassets/uploads/products/17690317.png"
+    },
+    {
+      "Id": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/20639682.png",
+      "PackagePath": "staticwebassets/uploads/products/20639682.png"
+    },
+    {
+      "Id": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/30099546.jpeg",
+      "PackagePath": "staticwebassets/uploads/products/30099546.jpeg"
+    },
+    {
+      "Id": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/33562150.png",
+      "PackagePath": "staticwebassets/uploads/products/33562150.png"
+    },
+    {
+      "Id": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/47390835.png",
+      "PackagePath": "staticwebassets/uploads/products/47390835.png"
+    },
+    {
+      "Id": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/48194373.png",
+      "PackagePath": "staticwebassets/uploads/products/48194373.png"
+    },
+    {
+      "Id": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/55526594.png",
+      "PackagePath": "staticwebassets/uploads/products/55526594.png"
+    },
+    {
+      "Id": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/71490551.png",
+      "PackagePath": "staticwebassets/uploads/products/71490551.png"
+    },
+    {
+      "Id": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/78949653.png",
+      "PackagePath": "staticwebassets/uploads/products/78949653.png"
+    },
+    {
+      "Id": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/79596512.jpeg",
+      "PackagePath": "staticwebassets/uploads/products/79596512.jpeg"
+    },
+    {
+      "Id": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/85945096.jpeg",
+      "PackagePath": "staticwebassets/uploads/products/85945096.jpeg"
+    },
+    {
+      "Id": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/products/93359496.png",
+      "PackagePath": "staticwebassets/uploads/products/93359496.png"
+    },
+    {
       "Id": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/about-bg.png",
       "PackagePath": "staticwebassets/uploads/template/img/about-bg.png"
     },
@@ -369,6 +421,10 @@
       "PackagePath": "staticwebassets/uploads/template/img/clients/client-6.png"
     },
     {
+      "Id": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/clients/metaller.jpg",
+      "PackagePath": "staticwebassets/uploads/template/img/clients/metaller.jpg"
+    },
+    {
       "Id": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/favicon.png",
       "PackagePath": "staticwebassets/uploads/template/img/favicon.png"
     },
@@ -449,24 +505,24 @@
       "PackagePath": "staticwebassets/uploads/template/img/services.jpg"
     },
     {
-      "Id": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-1.png",
-      "PackagePath": "staticwebassets/uploads/template/img/tabs/tab-1.png"
+      "Id": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-1.jpg",
+      "PackagePath": "staticwebassets/uploads/template/img/tabs/tab-1.jpg"
     },
     {
-      "Id": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-2.png",
-      "PackagePath": "staticwebassets/uploads/template/img/tabs/tab-2.png"
+      "Id": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-2.jpg",
+      "PackagePath": "staticwebassets/uploads/template/img/tabs/tab-2.jpg"
     },
     {
-      "Id": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-3.png",
-      "PackagePath": "staticwebassets/uploads/template/img/tabs/tab-3.png"
+      "Id": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-3.jpg",
+      "PackagePath": "staticwebassets/uploads/template/img/tabs/tab-3.jpg"
     },
     {
-      "Id": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-4.png",
-      "PackagePath": "staticwebassets/uploads/template/img/tabs/tab-4.png"
+      "Id": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-4.jpg",
+      "PackagePath": "staticwebassets/uploads/template/img/tabs/tab-4.jpg"
     },
     {
-      "Id": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-5.png",
-      "PackagePath": "staticwebassets/uploads/template/img/tabs/tab-5.png"
+      "Id": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/tabs/tab-5.jpg",
+      "PackagePath": "staticwebassets/uploads/template/img/tabs/tab-5.jpg"
     },
     {
       "Id": "/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/wwwroot/uploads/template/img/team/team-1.jpg",

@@ -1,96 +1,124 @@
 
 @{
-    ViewBag.Title = "İletişim";
-    Layout = "_Layout";
+  ViewBag.Title = "İletişim";
+  Layout = "_Layout";
 }
 <!-- Page Title -->
 <div class="page-title light-background">
-    <div class="container d-lg-flex justify-content-between align-items-center">
-        <h1 class="mb-2 mb-lg-0">İletişim</h1>
-        <nav class="breadcrumbs">
-            <ol>
-                <li><a href="/anasayfa">Anasayfa</a></li>
-                <li class="current">İletişim</li>
-            </ol>
-        </nav>
-    </div>
+  <div class="container d-lg-flex justify-content-between align-items-center">
+    <h1 class="mb-2 mb-lg-0">İletişim</h1>
+    <nav class="breadcrumbs">
+      <ol>
+        <li><a href="/anasayfa">Anasayfa</a></li>
+        <li class="current">İletişim</li>
+      </ol>
+    </nav>
+  </div>
 </div>
 <!-- End Page Title -->
 
 
+<!-- Contact Section -->
+<section id="contact" class="contact section">
 
- <!-- Contact Section -->
-    <section id="contact" class="contact section">
+  <div class="container" data-aos="fade-up" data-aos-delay="100">
 
-      <div class="container" data-aos="fade-up" data-aos-delay="100">
+    <div class="mb-4" data-aos="fade-up" data-aos-delay="200">
+      <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3130.930496197411!2d33.99422227660802!3d38.30427807185694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d66f7134faaf75%3A0xcc0f3b7f7855e1f2!2sAVANLAR%20METAL!5e0!3m2!1str!2str!4v1740970927247!5m2!1str!2str"
+        style="border:0; width: 100%; height: 400px;" allowfullscreen="" loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div><!-- End Google Maps -->
 
-        <div class="mb-4" data-aos="fade-up" data-aos-delay="200">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3130.930496197411!2d33.99422227660802!3d38.30427807185694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d66f7134faaf75%3A0xcc0f3b7f7855e1f2!2sAVANLAR%20METAL!5e0!3m2!1str!2str!4v1740970927247!5m2!1str!2str"style="border:0; width: 100%; height: 400px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-        </div><!-- End Google Maps -->
+    <div class="row gy-4">
 
-        <div class="row gy-4">
-
-          <div class="col-lg-4">
-            <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
-              <i class="bi bi-geo-alt flex-shrink-0"></i>
-              <div>
-                <h3>Adres</h3>
-                <p>Bahçesaray, Bahçe Saray 210 cadde No= 5/E, Aksaray Merkez/Aksaray</p>
-              </div>
-            </div><!-- End Info Item -->
-
-            <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
-              <i class="bi bi-telephone flex-shrink-0"></i>
-              <div>
-                <h3>Call Us</h3>
-                <p>+1 5589 55488 55</p>
-              </div>
-            </div><!-- End Info Item -->
-
-            <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="500">
-              <i class="bi bi-envelope flex-shrink-0"></i>
-              <div>
-                <h3>Email Us</h3>
-                <p>info@example.com</p>
-              </div>
-            </div><!-- End Info Item -->
-
+      <div class="col-lg-4">
+        <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
+          <i class="bi bi-geo-alt flex-shrink-0"></i>
+          <div>
+            <h3>Adres</h3>
+            <p>Bahçesaray, Bahçe Saray 210 cadde No= 5/E, Aksaray Merkez/Aksaray</p>
           </div>
+        </div><!-- End Info Item -->
 
-          <div class="col-lg-8">
-            <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up" data-aos-delay="200">
-              <div class="row gy-4">
+        <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
+          <i class="bi bi-telephone flex-shrink-0"></i>
+          <div>
+            <h3>Telefon</h3>
+            <p>+90 545 778 9727</p>
+          </div>
+        </div><!-- End Info Item -->
 
-                <div class="col-md-6">
-                  <input type="text" name="name" class="form-control" placeholder="Your Name" required="">
-                </div>
-
-                <div class="col-md-6 ">
-                  <input type="email" class="form-control" name="email" placeholder="Your Email" required="">
-                </div>
-
-                <div class="col-md-12">
-                  <input type="text" class="form-control" name="subject" placeholder="Subject" required="">
-                </div>
-
-                <div class="col-md-12">
-                  <textarea class="form-control" name="message" rows="6" placeholder="Message" required=""></textarea>
-                </div>
-
-                <div class="col-md-12 text-center">
-                  <div class="loading">Loading</div>
-                  <div class="error-message"></div>
-                  <div class="sent-message">Your message has been sent. Thank you!</div>
-
-                  <button type="submit">Send Message</button>
-                </div>
-
-              </div>
-            </form>
-          </div><!-- End Contact Form -->
-
-        </div>
+        <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="500">
+          <i class="bi bi-envelope flex-shrink-0"></i>
+          <div>
+            <h3>Mail</h3>
+            <p>info@avanlarmetal.com</p>
+          </div>
+        </div><!-- End Info Item -->
 
       </div>
 
-    </section><!-- /Contact Section -->
+      <div class="col-lg-8">
+        <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
+        <form action="/iletisim/ContactReq" method="post" class="php-email-form" onsubmit="return validateRecaptcha()">
+          <div class="row gy-4">
+            <div class="col-md-6">
+              <input type="text" name="nameSurname" maxlength="50" class="form-control" placeholder="Ad Soyad*"
+                     required>
+            </div>
+
+            <div class="col-md-6">
+              <input type="email" class="form-control" maxlength="50" name="email" placeholder="Mail Adresi*" required>
+            </div>
+
+            <div class="col-md-12">
+              <input type="text" class="form-control" maxlength="50" name="subject" placeholder="Konu">
+            </div>
+
+            <div class="col-md-12">
+              <textarea class="form-control" name="message" maxlength="400" rows="6" placeholder="Mesaj*"
+                        required></textarea>
+            </div>
+
+            <!-- Google reCAPTCHA Alanı -->
+            <div class="col-md-12 text-center">
+              <div class="g-recaptcha" data-sitekey="@(ViewBag.SiteKey != null ? ViewBag.SiteKey : "")"></div>
+            </div>
+
+            <!-- reCAPTCHA Token'ını Alıp Backend'e Gönder -->
+            <input type="hidden" name="gRecaptchaResponse" id="gRecaptchaResponse">
+
+            <div class="col-md-12 text-center">
+              <div class="loading">Loading</div>
+             
+                  <div class="sent-message">@(ViewBag.SuccessMessage != null ? ViewBag.SuccessMessage : "")</div>
+                  <div class="error-message">@(ViewBag.ErrorMessage != null ? ViewBag.ErrorMessage : "")</div>
+                
+
+
+              <button type="submit">Gönder</button>
+            </div>
+          </div>
+        </form>
+
+        <script>
+          function validateRecaptcha() {
+            var response = grecaptcha.getResponse();
+            if (!response) {
+              alert("Lütfen reCAPTCHA'yı doğrulayın.");
+              return false;
+            }
+            document.getElementById("gRecaptchaResponse").value = response;
+            return true;
+          }
+        </script>
+
+      </div><!-- End Contact Form -->
+
+    </div>
+
+  </div>
+
+</section><!-- /Contact Section -->

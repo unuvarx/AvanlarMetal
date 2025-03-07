@@ -8,39 +8,32 @@
 <html>
 <head>
     <link href="~/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/main.css">
     <title>Kategori Ekle</title>
 </head>
 <body>
-<div>
-    
+<div class="admin">
+    <a class="btn btn-warning" href="/admin/home">Ana Sayfaya Git</a>
     <h4>Kategori Ekle</h4>
-    <form>
+    <form action="/admin/AddCategory" method="post">
         <div class="mb-3">
-            <label for="exampleInputEmail1" class="form-label">İletişim</label>
-            <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="contact">
+            <label for="exampleInputEmail1" class="form-label">Kategori</label>
+            <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="category" placeholder="Örnek: Demir Kapılar">
         </div>
-        <div class="mb-3">
-            <label for="exampleInputPassword1" class="form-label">Tarih</label>
-            <input type="date" class="form-control" id="exampleInputPassword1" name="date">
-        </div>
-        <div class="mb-3">
-            <label for="exampleInputPassword1" class="form-label">Resim-1</label>
-            <input type="date" class="form-control" id="exampleInputPassword1" name="image1">
-        </div>
-        <div class="mb-3">
-            <label for="exampleInputPassword1" class="form-label">Resim-2</label>
-            <input type="date" class="form-control" id="exampleInputPassword1" name="image2">
-        </div>
-        <div class="mb-3">
-            <label for="exampleInputPassword1" class="form-label">Resim-3</label>
-            <input type="date" class="form-control" id="exampleInputPassword1" name="image3">
-        </div>
-        <div class="mb-3">
-            <label for="exampleInputPassword1" class="form-label">Resim-4</label>
-            <input type="date" class="form-control" id="exampleInputPassword1" name="image4">
-        </div>
-     
-        <button type="submit" class="btn btn-primary">Submit</button>
+
+        <button type="submit" class="btn btn-primary">Ekle</button>
+        @{
+            if (ViewBag.SuccessMessage != null)
+            {
+                <div class="SuccessMessage">@ViewBag.SuccessMessage</div>
+            }
+        }
+        @{
+            if (ViewBag.ErrorMessage != null)
+            {
+                <div class="ErrorMessage">@ViewBag.ErrırMessage</div>
+            }
+        }
     </form>
 </div>
 </body>

@@ -1,4 +1,3 @@
-@model TModel
 
 @{
     Layout = null;
@@ -8,11 +7,49 @@
 
 <html>
 <head>
-    <title>title</title>
+    <link href="~/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/css/main.css" rel="stylesheet">
+    <title>Kategoriler</title>
+    
 </head>
 <body>
-<div>
-      
+<div class="admin">
+    <a class="btn btn-warning" href="/admin/home">Ana Sayfaya Git</a>
+    <h4>Kategoriler</h4>
+    <table class="table table-bordered table-dark">
+        <thead>
+        <tr>
+            <th >Sıra</th>
+            <th >Kategori</th>
+            <th >İşlem</th>
+        </tr>
+        </thead>
+        <tbody>
+
+        @{
+            if (ViewBag.Categories != null)
+            {
+                for (int i = 0; i < ViewBag.Categories.Count; i++)
+                {
+                    var category = ViewBag.Categories[i];
+                    <tr>
+                        <td>@(i + 1)</td>
+                        <td >@category.Category</td>
+                        <td>
+                            <form action="/admin/DeleteCategoryReq" method="post">
+                                <input type="hidden" name="categoryId" value="@category.CategoryId">
+                                <button type="submit" class="btn btn-danger">Sil</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            }
+        }
+
+        </tbody>
+    </table>
+
 </div>
 </body>
+<script src="~/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 </html>
