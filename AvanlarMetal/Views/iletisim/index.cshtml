@@ -1,4 +1,3 @@
-
 @{
   ViewBag.Title = "İletişim";
   Layout = "_Layout";
@@ -60,7 +59,6 @@
       </div>
 
       <div class="col-lg-8">
-        <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
         <form action="/iletisim/ContactReq" method="post" class="php-email-form" onsubmit="return validateRecaptcha()">
           <div class="row gy-4">
@@ -91,29 +89,15 @@
             <input type="hidden" name="gRecaptchaResponse" id="gRecaptchaResponse">
 
             <div class="col-md-12 text-center">
-              <div class="loading">Loading</div>
-             
-                  <div class="sent-message">@(ViewBag.SuccessMessage != null ? ViewBag.SuccessMessage : "")</div>
-                  <div class="error-message">@(ViewBag.ErrorMessage != null ? ViewBag.ErrorMessage : "")</div>
-                
+            
 
-
+              <div class="loading d-none"></div>
+              <div class="sent-message d-none"></div>
+              <div class="error-message d-none"></div>
               <button type="submit">Gönder</button>
             </div>
           </div>
         </form>
-
-        <script>
-          function validateRecaptcha() {
-            var response = grecaptcha.getResponse();
-            if (!response) {
-              alert("Lütfen reCAPTCHA'yı doğrulayın.");
-              return false;
-            }
-            document.getElementById("gRecaptchaResponse").value = response;
-            return true;
-          }
-        </script>
 
       </div><!-- End Contact Form -->
 
@@ -122,3 +106,5 @@
   </div>
 
 </section><!-- /Contact Section -->
+
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>

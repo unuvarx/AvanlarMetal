@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AvanlarMetal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10bc9031f1d67098221a19bdae555d1804dadbed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73ec93bc8830cb6f7b7b44446877325dfdc3785d")]
 [assembly: System.Reflection.AssemblyProductAttribute("AvanlarMetal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AvanlarMetal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -90,7 +90,6 @@ h6 {
 /* PHP Email Form Messages
 ------------------------------*/
 .php-email-form .error-message {
-    display: none;
     background: #df1529;
     color: #ffffff;
     text-align: left;
@@ -100,7 +99,7 @@ h6 {
 }
 
 .php-email-form .sent-message {
-    display: none;
+   
     color: #ffffff;
     background: #059652;
     text-align: center;
@@ -110,7 +109,8 @@ h6 {
 }
 
 .php-email-form .loading {
-    display: none;
+  
+    
     background: var(--surface-color);
     text-align: center;
     padding: 15px;
@@ -1659,6 +1659,9 @@ section,
     color: var(--accent-color);
 }
 
+.calculate {
+    transition: 0.3s;
+}
 /*--------------------------------------------------------------
 # Portfolio Details Section
 --------------------------------------------------------------*/
@@ -2541,6 +2544,9 @@ section,
 }
 
 .admin {
+    h4 {
+        margin: 1rem 0;
+    }
     .btn-warning {
         margin-bottom: 1rem;
     }
@@ -2572,7 +2578,6 @@ section,
     }
 
     .buttons {
-        
         padding: 0 1rem;
         background-color: lightgray;
         display: flex;
@@ -2584,6 +2589,23 @@ section,
             width: 20rem;
             margin: 1rem;
          
+        }
+        .mail-btn {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            span {
+                font-size: 13px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 25px!important;
+                height: 25px!important;
+                background-color: red;
+                color: white;
+                border-radius: 50%;
+                margin-left: 4px;
+            }
         }
     }
 }

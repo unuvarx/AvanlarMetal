@@ -194,7 +194,6 @@
 /Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/ugyrww0tdp-eq99lnprhv.gz
 /Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/o4zogc2xqf-br0zmhkmg1.gz
 /Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/f2rzyxt3pc-khtfrzbzl2.gz
-/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/j1pk3l61fn-zdybs0gz2x.gz
 /Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/a7oae5jiiu-2rjw4dq9h9.gz
 /Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/pdk3eax0ml-a6t7u1k04x.gz
 /Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/rogfzzo4jo-wkij6wtprp.gz
@@ -306,4 +305,5 @@
 /Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/bin/Debug/net9.0/Newtonsoft.Json.dll
 /Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/bin/Debug/net9.0/System.Private.Windows.Core.dll
 /Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/bin/Debug/net9.0/runtimes/win/lib/net9.0/Microsoft.Win32.SystemEvents.dll
-/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/94bqybol98-vjwpd0m93q.gz
+/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/j1pk3l61fn-d2p59jybn9.gz
+/Users/developer/Documents/SOFTWARE/PROJELER/AvanlarMetal/AvanlarMetal/obj/Debug/net9.0/compressed/94bqybol98-6087i97m8d.gz

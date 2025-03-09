@@ -2,21 +2,19 @@
 
 
 @{
-    Layout = null;
+    ViewBag.Title = "Ürün Ekle";
+    Layout = "_Admin";
 }
 
 <!DOCTYPE html>
 
 <html>
 <head>
-    <link href="~/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="~/css/main.css">
-
-    <title>Ürün Ekle</title>
+    
 </head>
 <body>
 <div class="admin">
-    <a class="btn btn-warning" href="/admin/home">Ana Sayfaya Git</a>
+    
     <h4>Ürün Ekle</h4>
     @{
         if (ViewBag.Categories != null)
@@ -78,5 +76,4 @@
     }
 </div>
 </body>
-<script src="~/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 </html>

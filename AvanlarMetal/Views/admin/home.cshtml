@@ -1,6 +1,7 @@
 
 @{
-    Layout = null;
+    Layout = "_Admin";
+    ViewBag.Title = "Ürünler";
 }
 
 <!DOCTYPE html>
@@ -8,18 +9,11 @@
 <html>
 
 <head>
-    <link href="~/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="~/css/main.css">
-    <title>Ürünler</title>
+    
 </head>
 <body>
 <div class="admin">
-    <div class="buttons">
-        <a href="/admin/listofcategory" class="btn btn-warning">Kategori Listesi</a>
-        <a href="/admin/addcategory" class="btn btn-primary">Kategori Ekle</a>
-        <a href="/admin/addproduct" class="btn btn-secondary">Ürün Ekle</a>
-    </div>
-    
+    <h4>Ürünler</h4>
     <table class="table table-bordered table-dark">
         <thead>
         <tr>
@@ -61,5 +55,5 @@
     </table>
 </div>
 </body>
-<script src="~/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
 </html>

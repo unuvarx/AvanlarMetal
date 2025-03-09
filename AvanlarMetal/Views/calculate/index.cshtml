@@ -6,7 +6,7 @@
 <!-- Page Title -->
 <div class="page-title light-background">
 	<div class="container d-lg-flex justify-content-between align-items-center">
-		<h1 class="mb-2 mb-lg-0">Metal Ağırlık Hesapma</h1>
+		<h1 class="mb-2 mb-lg-0">Metal Ağırlık Hesaplama</h1>
 		<nav class="breadcrumbs">
 			<ol>
 				<li><a href="/anasayfa">Anasayfa</a></li>
@@ -17,17 +17,14 @@
 </div>
 <!-- End Page Title -->
 
-
-
-<section>
+<section class="calculate">
 	<div class="container-xxl py-5">
 		<div class="container">
 			<div class="row g-5">
-				<div class="col-lg-7 wow fadeInUp">
+				<div class="col-lg-7 wow fadeInUp" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
 					<div class="row g-4 align-items-center">
 						<div class="col-sm-12">
 							<input type="hidden" name="density" id="density" class="form-control" readonly value="8.9">
-
 							<table class="table table-bordered">
 								<tbody>
 								<tr>
@@ -98,13 +95,22 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-5 wow fadeInUp">
-					<img src="https://www.ankarabronz.com.tr/img/agirlik-hesaplama.jpg" class="img-fluid" alt="Ağırlık Hesaplama">
+				<div class="col-lg-5 wow fadeInUp" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400">
+					<img src="~/uploads/template/img/calculate.jpg" class="img-fluid" alt="Ağırlık Hesaplama">
 				</div>
 			</div>
 		</div>
 	</div>
 </section>
 
+<!-- AOS CSS -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
+
+<!-- jQuery -->
 <script src="lib/jquery/dist/jquery.min.js"></script>
+
+<!-- AOS JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+
+<!-- Custom Script -->
 <script src="~/js/calculate.js"></script>

@@ -22,14 +22,13 @@ public class iletisimController : Controller
         return View();
     }
     
-    public async Task<IActionResult>  ContactReq(string nameSurname, string email, string subject, string message, string gRecaptchaResponse)
+    public async Task<JsonResult>  ContactReq(string nameSurname, string email, string subject, string message, string gRecaptchaResponse)
     {
         try
         {
             if (!await ValidateRecaptcha(gRecaptchaResponse))
             {
-                ViewBag.ErrorMessage = "reCAPTCHA doğrulaması başarısız. Lütfen tekrar deneyin.";
-                return View("iletisim"); 
+                return Json(new { success = false, message = "Mesaj gönderilemedi!" });; 
             }
 
             var newMail = new Mails
@@ -43,16 +42,13 @@ public class iletisimController : Controller
 
             await _contexts.Mails.AddAsync(newMail);
             await _contexts.SaveChangesAsync();
-            ViewBag.SuccessMessage = "Mail başarıyla gönderildi. En kısa sürede sizinle iletişime geçeceğiz.";
-            Console.WriteLine("GÖNDERİLDİİİİ");
-            return View("iletisim");
+            
+            return Json(new { success = true, message = "Mesaj başarıyla gönderildi. En kısa sürede sizinle iletişime geçeceğiz!" });; 
         }
         catch (Exception e)
         {
-            ViewBag.ErrorMessage = "Mail gönderilirken bir hata oluştu";
-            Console.WriteLine("HAAAAATAAAA");
-            Console.WriteLine(e);
-            return View("iletisim");
+            
+            return Json(new { success = false, message = "Mesaj gönderilemedi!" });; 
         }
     }
     

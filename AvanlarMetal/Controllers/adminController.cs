@@ -4,6 +4,7 @@ using System.Text;
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;
 using AvanlarMetal.Models;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 
 
@@ -44,7 +45,7 @@ public class adminController : Controller
         var jwtToken = (JwtSecurityToken)validatedToken;
         var username = jwtToken.Subject;
 
-        var user = _contexts.Users.FirstOrDefault(u => u.UserName == username);
+        var user = _contexts.Users.AsNoTracking().FirstOrDefault(u => u.UserName == username);
         return user;
     }
     private bool UserIsAuthenticated()
@@ -125,7 +126,7 @@ public class adminController : Controller
                 return View("login");
             }
 
-            var user = _contexts.Users.FirstOrDefault(u => u.UserName == username);
+            var user = _contexts.Users.AsNoTracking().FirstOrDefault(u => u.UserName == username);
         
             if (user == null)
             {
@@ -167,7 +168,7 @@ public class adminController : Controller
             return RedirectToAction("login", "admin");
         }
         var products = _contexts.Products.ToList();
-        
+        ViewBag.MailNumber = _contexts.Mails.Count();
         ViewBag.Products = products;
         return View();
     }
@@ -179,6 +180,7 @@ public class adminController : Controller
         {
             return RedirectToAction("login", "admin");
         }
+        ViewBag.MailNumber = _contexts.Mails.Count();
         return View();
     }
     public IActionResult addproduct()
@@ -188,6 +190,7 @@ public class adminController : Controller
             return RedirectToAction("login", "admin");
         }
         var categories = _contexts.Categories.ToList();
+        ViewBag.MailNumber = _contexts.Mails.Count();
         ViewBag.Categories = categories;
         return View();
     }
@@ -198,6 +201,7 @@ public class adminController : Controller
             return RedirectToAction("login", "admin");
         }
         var categories = _contexts.Categories.ToList();
+        ViewBag.MailNumber = _contexts.Mails.Count();
         ViewBag.Categories = categories;
         return View();
     }
@@ -237,7 +241,7 @@ public class adminController : Controller
                 return null;
             }
 
-            var category = _contexts.Categories.FirstOrDefault(c => c.CategoryId == categoryId);
+            var category = _contexts.Categories.AsNoTracking().FirstOrDefault(c => c.CategoryId == categoryId);
             var product = new Product
             {
                 Category = category.Category,
@@ -302,7 +306,7 @@ public class adminController : Controller
                 return RedirectToAction("login", "admin");
             }
             
-            var product = _contexts.Products.FirstOrDefault(p => p.ProductId == productId);
+            var product = _contexts.Products.AsNoTracking().FirstOrDefault(p => p.ProductId == productId);
             if (product == null)
             {
                 ViewBag.ErrorMessage = "Ürün bulunamadı!";
@@ -363,7 +367,7 @@ public class adminController : Controller
             }
 
             // Kategoriyi bul
-            var category = _contexts.Categories.FirstOrDefault(c => c.CategoryId == categoryId);
+            var category = _contexts.Categories.AsNoTracking().FirstOrDefault(c => c.CategoryId == categoryId);
             if (category != null)
             {
                 _contexts.Categories.Remove(category);
@@ -401,8 +405,36 @@ public class adminController : Controller
         {
             return RedirectToAction("login", "admin");
         }
+        ViewBag.MailNumber = _contexts.Mails.Count();
+        ViewBag.Mails = _contexts.Mails.ToList();
         return View();
     }
 
-   
+    public async Task<IActionResult> DeleteMailReq(int mailId)
+    {
+        try
+        {
+            if (!UserIsAuthenticated())
+            {
+                return RedirectToAction("login", "admin");
+            }
+
+            var mail = _contexts.Mails.AsNoTracking().FirstOrDefault(m => m.MailId == mailId);
+            if (mail == null)
+            {
+                return RedirectToAction("contacts", "admin"); // Mail bulunamazsa, doğru sayfaya yönlendir
+            }
+
+            _contexts.Mails.Remove(mail);
+            await _contexts.SaveChangesAsync();
+
+            return RedirectToAction("contacts", "admin"); // Silme işlemi başarılıysa, doğru sayfaya yönlendir
+        }
+        catch (Exception e)
+        {
+            // Hata durumunda da doğru sayfaya yönlendir
+            return RedirectToAction("contacts", "admin");
+        }
+    }
+
 }

@@ -24,17 +24,17 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-aIyfhckqObAhCDt2TgYC7lQfJXYTwgv2yPKDc/1QzuY="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"972"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022aIyfhckqObAhCDt2TgYC7lQfJXYTwgv2yPKDc/1QzuY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Mar 2025 21:38:12 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AvanlarMetal/css/main.6087i97m8d.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\main.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6087i97m8d"},{"Name":"integrity","Value":"sha256-utVufy/aWzegKPRWiF94kKSZ6ihKH1CRUJFbmWlhgvk="},{"Name":"label","Value":"_content/AvanlarMetal/css/main.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"57639"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022utVufy/aWzegKPRWiF94kKSZ6ihKH1CRUJFbmWlhgvk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 07 Mar 2025 03:00:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/AvanlarMetal/css/main.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\main.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Cz4mRpq6bq90b0LswmfJoz7PoTcyU2YpOEylcV5w8bQ="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"57097"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Cz4mRpq6bq90b0LswmfJoz7PoTcyU2YpOEylcV5w8bQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 06 Mar 2025 20:48:44 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/AvanlarMetal/css/main.vjwpd0m93q.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\main.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vjwpd0m93q"},{"Name":"integrity","Value":"sha256-Cz4mRpq6bq90b0LswmfJoz7PoTcyU2YpOEylcV5w8bQ="},{"Name":"label","Value":"_content/AvanlarMetal/css/main.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"57097"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Cz4mRpq6bq90b0LswmfJoz7PoTcyU2YpOEylcV5w8bQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 06 Mar 2025 20:48:44 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-utVufy/aWzegKPRWiF94kKSZ6ihKH1CRUJFbmWlhgvk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"57639"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022utVufy/aWzegKPRWiF94kKSZ6ihKH1CRUJFbmWlhgvk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 07 Mar 2025 03:00:22 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/AvanlarMetal/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
@@ -1187,6 +1187,18 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-aSRuc5IdyocspUwFNJ67iA78GY78uji02aL\u002BdVTjA4A="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"14253"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022aSRuc5IdyocspUwFNJ67iA78GY78uji02aL\u002BdVTjA4A=\u0022"},{"Name":"Last-Modified","Value":"Fri, 28 Feb 2025 19:44:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AvanlarMetal/uploads/template/img/calculate.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\template\img\calculate.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zwz8i6\u002Bg6ulh40GQ9cNql1zqWNuaGRTORvlPPYGJZ5s="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"860271"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022zwz8i6\u002Bg6ulh40GQ9cNql1zqWNuaGRTORvlPPYGJZ5s=\u0022"},{"Name":"Last-Modified","Value":"Fri, 07 Mar 2025 02:12:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AvanlarMetal/uploads/template/img/calculate.rtm5ur27ey.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\template\img\calculate.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rtm5ur27ey"},{"Name":"integrity","Value":"sha256-zwz8i6\u002Bg6ulh40GQ9cNql1zqWNuaGRTORvlPPYGJZ5s="},{"Name":"label","Value":"_content/AvanlarMetal/uploads/template/img/calculate.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"860271"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022zwz8i6\u002Bg6ulh40GQ9cNql1zqWNuaGRTORvlPPYGJZ5s=\u0022"},{"Name":"Last-Modified","Value":"Fri, 07 Mar 2025 02:12:23 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/AvanlarMetal/uploads/template/img/clients/client-1.a3n010f1lh.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\template\img\clients\client-1.png'))</AssetFile>
@@ -2448,17 +2460,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"khtfrzbzl2"},{"Name":"integrity","Value":"sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI="},{"Name":"label","Value":"_content/AvanlarMetal/vendor/isotope-layout/isotope.pkgd.min.js"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"35445"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 28 Feb 2025 19:36:50 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AvanlarMetal/vendor/php-email-form/validate.d2p59jybn9.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\vendor\php-email-form\validate.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"d2p59jybn9"},{"Name":"integrity","Value":"sha256-2zxjUzR2oEPPXKQ0oIQGwQMoK4a3roubH7KJJm3uO0k="},{"Name":"label","Value":"_content/AvanlarMetal/vendor/php-email-form/validate.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1739"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00222zxjUzR2oEPPXKQ0oIQGwQMoK4a3roubH7KJJm3uO0k=\u0022"},{"Name":"Last-Modified","Value":"Fri, 07 Mar 2025 01:58:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/AvanlarMetal/vendor/php-email-form/validate.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\vendor\php-email-form\validate.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-197f/nqeGwZ6xNwqzy0/fPHIq1ju/ZoRuipGjlJzrzo="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2734"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022197f/nqeGwZ6xNwqzy0/fPHIq1ju/ZoRuipGjlJzrzo=\u0022"},{"Name":"Last-Modified","Value":"Fri, 28 Feb 2025 19:36:50 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/AvanlarMetal/vendor/php-email-form/validate.zdybs0gz2x.js">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\vendor\php-email-form\validate.js'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zdybs0gz2x"},{"Name":"integrity","Value":"sha256-197f/nqeGwZ6xNwqzy0/fPHIq1ju/ZoRuipGjlJzrzo="},{"Name":"label","Value":"_content/AvanlarMetal/vendor/php-email-form/validate.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2734"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022197f/nqeGwZ6xNwqzy0/fPHIq1ju/ZoRuipGjlJzrzo=\u0022"},{"Name":"Last-Modified","Value":"Fri, 28 Feb 2025 19:36:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2zxjUzR2oEPPXKQ0oIQGwQMoK4a3roubH7KJJm3uO0k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1739"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00222zxjUzR2oEPPXKQ0oIQGwQMoK4a3roubH7KJJm3uO0k=\u0022"},{"Name":"Last-Modified","Value":"Fri, 07 Mar 2025 01:58:20 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/AvanlarMetal/vendor/purecounter/purecounter_vanilla.2rjw4dq9h9.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\vendor\purecounter\purecounter_vanilla.js'))</AssetFile>
